@@ -4,6 +4,7 @@ This device, based on a Raspberry Pi Pico of any variety, writes RFID Tags for u
 <p></p>
 <img src="QiDi Tag Writer.png"/>
 <p></p>
+
 **BOM:**
 
 * Raspberry Pi Pico, Pico W, Pico 2 or Pico 2W
